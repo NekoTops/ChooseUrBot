@@ -1,6 +1,7 @@
 # ChooseUrBot
-NSBEHack 2023 hackathon project that won first place at my very first hackathon.
+NSBEHack 2023 competition project that won first place.
 Halloween themed multi-personality AI Chat Bot.
+built in collaboration with two other amazing engineers who wish to remain untagged.
 ## Freatures
 - Multiple personalities
 - Interactive GUI
